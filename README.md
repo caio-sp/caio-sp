@@ -6,8 +6,7 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![GitHub Snake Light](https://github.com/caio-sp/caio-sp/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/caio-sp/caio-sp/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake ](https://github.com/caio-sp/caio-sp/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **caio-sp/caio-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
