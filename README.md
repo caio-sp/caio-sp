@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/caio-sp/caio-sp/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/caio-sp/caio-sp/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **caio-sp/caio-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
