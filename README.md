@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world 👋
+
+<div align="center">
+  <a href="https://github.com/caio-sp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-sp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sp&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![GitHub Snake Light](https://github.com/caio-sp/caio-sp/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/caio-sp/caio-sp/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
