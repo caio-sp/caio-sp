@@ -5,7 +5,7 @@
     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=caio-sp&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
-  <br>
+  <br><br>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
