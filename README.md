@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · AI & Automation · APIs · Cloud
 
-I build **web applications, AI agents, automation workflows, Progressive Web Apps and business integrations**, combining software development, APIs, cloud infrastructure and data-driven digital systems.
+I build **web applications, AI agents, automation workflows, Progressive Web Apps and entire business workflows**, combining software development, integrations, APIs, cloud infrastructure and data-driven digital systems.
 
 ---
 
@@ -11,15 +11,15 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/typescript/typescript-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/materialui/materialui-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/vitejs/vitejs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/bootstrap/bootstrap-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="42" />
 </p>
 
 **React · TypeScript · JavaScript · Progressive Web Apps · Tailwind CSS · Material UI · Vite · Bootstrap · HTML5 · CSS3**
@@ -29,11 +29,11 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### ⚙️ Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/laravel/laravel-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/nodejs/nodejs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/php/php-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original-wordmark.svg" width="76" />
 </p>
 
 **Laravel · Node.js · PHP · Python · MySQL · REST APIs · Webhooks**
@@ -43,12 +43,12 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 🤖 AI & Automation
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/openai.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/anthropic.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/google.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/ollama.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/n8n.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/make.svg" width="42" />
 </p>
 
 **OpenAI · Claude · Gemini · Open Source LLMs · Ollama · n8n · Make · AI Agents · LLM APIs · Workflow Automation**
@@ -58,8 +58,7 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 📱 WhatsApp & Integrations
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meta/meta-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/meta.svg" width="42" />
 </p>
 
 **WhatsApp Cloud API · WhatsApp Business Platform · Meta Graph API · Evolution API · Baileys · Webhooks**
@@ -69,12 +68,13 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="68" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="68" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/googlecloud/googlecloud-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/cloudflare/cloudflare-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/linux/linux-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/apache/apache-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/nginx/nginx-original.svg" width="42" />
 </p>
 
 **AWS · Google Cloud · Cloudflare · Docker · Linux · Apache · Nginx · cPanel**
@@ -84,8 +84,8 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 📊 Analytics & Growth
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googleanalytics/googleanalytics-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/googleanalytics/googleanalytics-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/googleads.svg" width="42" />
 </p>
 
 **Google Ads · Google Analytics 4 · Google Tag Manager · Search Console · SEO · Conversion Tracking**
@@ -109,6 +109,7 @@ Web applications for **reservations, users, calendars, operational workflows and
 ### 📈 Digital & Conversion Platforms
 
 Websites and digital systems combining **SEO, analytics, tracking, Google Ads and WhatsApp conversion flows**.
+
 
 
 ### 🐍 GitHub Contribution Snake
