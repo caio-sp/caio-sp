@@ -33,10 +33,22 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/nodejs/nodejs-original-wordmark.svg" width="78" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/php/php-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original-wordmark.svg" width="76" />
 </p>
 
 **Laravel · Node.js · PHP · Python · MySQL · REST APIs · Webhooks**
+
+---
+
+### 🗄️ Databases & Backend Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original-wordmark.svg" width="76" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/supabase/supabase-original.svg" width="42" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/firebase/firebase-original.svg" width="42" alt="Firebase" />
+</p>
+
+**PostgreSQL · MySQL · Supabase · Firebase · SQL**
 
 ---
 
