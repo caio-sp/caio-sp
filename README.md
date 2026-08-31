@@ -43,13 +43,13 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 🤖 AI & Automation
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.94.0/icons/openai.svg" width="42" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.94.0/icons/claude-color.svg" width="42" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.94.0/icons/gemini-color.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/deepseek.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/ollama.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/n8n.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/make.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/openai.svg" width="42" alt="OpenAI" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/claude-color.svg" width="42" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/gemini-color.svg" width="42" alt="Gemini" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/deepseek-color.svg" width="42" alt="DeepSeek" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/ollama.svg" width="42" alt="Ollama" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/n8n-color.svg" width="42" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/make-color.svg" width="42" alt="Make" />
 </p>
 
 **OpenAI · Claude · Gemini · DeepSeek · Open Source LLMs · Ollama · n8n · Make · AI Agents · LLM APIs · Workflow Automation**
@@ -59,15 +59,12 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 📱 Integrations & Platforms
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/whatsapp.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/meta.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/google.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/googleads.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/googleanalytics/googleanalytics-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/googletagmanager.svg" width="42" />
+  <img src="https://api.iconify.design/logos:whatsapp.svg" width="42" alt="WhatsApp" />
+  <img src="https://api.iconify.design/logos:meta.svg" width="42" alt="Meta" />
+  <img src="https://api.iconify.design/logos:google.svg" width="42" alt="Google" />
 </p>
 
-**WhatsApp Cloud API · WhatsApp Business Platform · Meta Graph API · Google Ads · Google Analytics 4 · Google Tag Manager · Google Search Console · Google Business Profile · Webhooks · REST APIs**
+**WhatsApp Cloud API · WhatsApp Business Platform · Meta Graph API · Google APIs · Evolution API · Baileys · Webhooks**
 
 ---
 
