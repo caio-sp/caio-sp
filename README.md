@@ -6,6 +6,17 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<!-- Atualização automática do snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caio-sp/caio-sp/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+<!-- Caso o GitHub Snake não esteja atualizando, veja abaixo -->
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ⚛️ Frontend
@@ -42,6 +53,7 @@ I build **web applications, AI agents, automation workflows, Progressive Web App
 ### 🗄️ Databases & Backend Platforms
 
 <p>
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/filetype-sql.svg" width="42" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original-wordmark.svg" width="76" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/supabase/supabase-original.svg" width="42" alt="Supabase" />
@@ -126,12 +138,3 @@ Web applications for **reservations, users, calendars, operational workflows and
 Websites and digital systems combining **SEO, analytics, tracking, Google Ads and WhatsApp conversion flows**.
 
 
-
-### 🐍 GitHub Contribution Snake
-
-<!-- Atualização automática do snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caio-sp/caio-sp/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
-
-<!-- Caso o GitHub Snake não esteja atualizando, veja abaixo -->
