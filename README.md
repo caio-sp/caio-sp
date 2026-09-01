@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Caio Rodrigues
 
-### Full-Stack Developer · AI & Automation · APIs · Cloud
+### Full-Stack Developer · AI & Automations · APIs · Cloud DevOps
 
 I build **web applications, AI agents, automation workflows, Progressive Web Apps and entire business workflows**, combining software development, integrations, APIs, cloud infrastructure and data-driven digital systems.
 
